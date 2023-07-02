@@ -60,8 +60,7 @@ Country Details Page Light Mode
 
 Country Details Page Dark Mode
 
-![Alt text](https://drive.google.com/uc?id=1NMOitOGR1G94fd0vv_rxyhmyz4DBUa77)
-
+![Alt text](https://drive.google.com/uc?id=1C_IfUZJ2MqEjmJ1e6knnV78znORlCaZA)
 
 
 
