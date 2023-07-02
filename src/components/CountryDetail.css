@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100%;
+}
+
+.backContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 8rem;
+    margin-top: 4rem;
+    margin-left: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.backButton {
+    margin-left: 0.5rem;
+    color: black;
+}
+
+.countryDetailsContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    margin-top: -6rem;
+    width: 100%;
+    height: 100vh;
+}
+
+/* .countryDetailCard, .countryDetailContainer {
+    height: 100%;
+} */
+.singleCountryFlag {
+    margin-left: 5rem;
+    width: 30rem;
+    height: 18rem;
+}
+
+.detailsHeading, .details, .borderCountriesContainer {
+    font-size: 0.8rem;
+}
+
+.detailsHeading, .borderCountriesContainer {
+    color: rgb(67, 65, 65);
+}
+
+.details, .borders {
+    color: gray;
+    margin-left: 0.3rem;
+    font-weight: 600;
+}
+
+.CountryDetailsColumn {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 100%;
+}
+
+.leftSideContainer {
+    display: grid;
+    gap: 0.5rem;
+    justify-items: start;
+
+}
+
+.rightSideContainer {
+    display: grid;
+    justify-items: start;
+    width: 25rem;
+    gap: 0.5rem;
+    align-content: start;
+}
+
+.borderCountryLink {
+    text-decoration: none;
+    color: gray;
+}
+
+.borderCountrySeparator{
+    padding: 0.5rem;
+}
+
+.borderCountries{
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+}
+
+
+.borderCountriesContainer{
+    margin-top: 1rem;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+/* .container {
+    background-color: #202D36;
+} */

@@ -1,0 +1,122 @@
+.homeContainer {
+    min-height: 100vh;
+}
+
+.searchContainer {
+    width: 35rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    margin: 2rem 4rem;
+    box-shadow: 0.1rem 0.1rem 0.5rem 0.2rem rgb(235, 233, 233);
+}
+
+.searchInput {
+    width: 30rem;
+    margin-left: 0.5rem;
+    padding: 0.5rem 1rem 0.5rem 0.2rem;
+}
+
+.searchInput::placeholder,
+.selectRegions,
+input[type="text"] {
+    font-size: 1rem;
+}
+
+.dropdownContainer {
+    margin-top: -5.5rem;
+    margin-left: 71.5rem;
+    margin-right: 9rem;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.searchDropdownCommon {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.selectRegions {
+    box-shadow: 0.1rem 0.1rem 0.5rem 0.2rem rgb(235, 233, 233);
+    padding: 1.2rem 4rem 1.2rem 2rem;
+    appearance: none;
+    background-image: url(/public/dropdownArrow.png);
+    background-size: 1rem;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 1rem) center;
+    margin: 0;
+    background-blend-mode: multiply;
+}
+
+.searchInput,
+.selectRegions {
+    border: none;
+    outline: none;
+}
+
+.countriesContainer {
+    margin-top: 3rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 4rem;
+    margin-left: 4.5rem;
+    margin-right: 4.5rem;
+    justify-content: center;
+    align-content: center;
+    flex: 1;
+}
+
+.searchContainer,
+.selectRegions {
+    border-radius: 0.2rem;
+}
+
+.countryCard {
+    height: 19rem;
+    width: 15rem;
+    border-radius: 0rem 0rem 0.5rem 0.5rem;
+    overflow: hidden;
+    /* margin: 0 0.5rem;
+    box-sizing: border-box; */
+}
+
+.countryFlag {
+    height: 10rem;
+    width: 100%;
+    border-top-right-radius: 0.3rem;
+    border-top-left-radius: 0.3rem;
+}
+
+.countryName {
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    color: black;
+}
+
+.countryDetails {
+    display: flex;
+    margin-top: 1rem;
+    font-weight: 600;
+    line-height: 1mm;
+    font-size: 0.7rem;
+    color: gray;
+}
+
+.detailsHeading {
+    font-weight: bold;
+    color: rgb(52, 51, 51);
+    margin-right: 0.3rem;
+}
+
+.countryName,
+.countryDetails {
+    margin-left: 1rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+}
