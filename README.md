@@ -50,21 +50,31 @@ Home Page Light Mode
 
 ![Home Page Light Mode](https://drive.google.com/uc?id=1_qq3YyrVcU3CCiV2pkIgI_L9Wd6j1dqt)
 
+
+
 Home Page Dark Mode
 
 ![Home Page Dark Mode](https://drive.google.com/uc?id=15vussBvLMPyVVC8bnVr0YkbswgWxtygX)
+
+
 
 Country Details Page Light Mode
 
 ![Country Details Page Light Mode](https://drive.google.com/uc?id=1kDYr6G-AefRzOpIK-HHTbLOcy9fIhfLR)
 
+
+
 Country Details Page Dark Mode
 
 ![Country Details Page Dark Mode](https://drive.google.com/uc?id=1C_IfUZJ2MqEjmJ1e6knnV78znORlCaZA)
 
+
+
 Region Filtering Menu
 
 ![Region Filtering Menu](https://drive.google.com/uc?id=1d89oSF9ECRWErYGxCmwHWFXiTFGDBQs2)
+
+
 
 Country Search Bar
 
