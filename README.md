@@ -48,38 +48,35 @@ Screenshots:
 
 Home Page Light Mode
 
-![Home Page Light Mode](https://drive.google.com/uc?id=1_qq3YyrVcU3CCiV2pkIgI_L9Wd6j1dqt)
-
-
+![Home Page Light Mode](https://drive.google.com/uc?id=1I7PshaXrv8sZh-dODuhxAKEiysepMu1p)
 
 Home Page Dark Mode
 
-![Home Page Dark Mode](https://drive.google.com/uc?id=15vussBvLMPyVVC8bnVr0YkbswgWxtygX)
-
-
+![Home Page Dark Mode](https://drive.google.com/uc?id=1DhlDB_AisfGS1O7CsNKJdu5btoCXdcWk)
 
 Country Details Page Light Mode
 
-![Country Details Page Light Mode](https://drive.google.com/uc?id=1kDYr6G-AefRzOpIK-HHTbLOcy9fIhfLR)
-
-
+![Country Details Page Light Mode](https://drive.google.com/uc?id=1EEd1vME0L918XineBVZ5jZAgC_MJX1wi)
 
 Country Details Page Dark Mode
 
-![Country Details Page Dark Mode](https://drive.google.com/uc?id=1C_IfUZJ2MqEjmJ1e6knnV78znORlCaZA)
+![Country Details Page Dark Mode](https://drive.google.com/uc?id=18F26Z1jZp64PkrbK_cP3PAe0WrqM98ug)
 
+Region Filtering Menu Light Mode
 
+![Region Filtering Menu Light Mode](https://drive.google.com/uc?id=14wlDnDquQqFCTNqI2WRUljw-xJJiaHi-)
 
-Region Filtering Menu
+Region Filtering Menu Dark Mode
 
-![Region Filtering Menu](https://drive.google.com/uc?id=1d89oSF9ECRWErYGxCmwHWFXiTFGDBQs2)
+![Region Filtering Menu Dark Mode](https://drive.google.com/uc?id=1oATZ96h6ZbSdvIYiUAsXo6Rbg4T9D9ob)
 
+Country Search Bar Light Mode
 
+![Country Search Bar Light Mode](https://drive.google.com/uc?id=1R7c8HD5zAHiVx4C2mxy1k5dy28BAOHj_)
 
-Country Search Bar
+Country Search Bar Dark Mode
 
-![Country Search Bar](https://drive.google.com/uc?id=16XaQMY7jfBPMU6O-gDJYPaHdt_bRaGUh)
-
+![Country Search Bar Light Mode](https://drive.google.com/uc?id=1fItpCiPIGQDzfwwhwpi6ULl2uttiizai)
 
 
 Built with:
