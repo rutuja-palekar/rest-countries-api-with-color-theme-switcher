@@ -48,35 +48,35 @@ Screenshots:
 
 Home Page Light Mode
 
-![Home Page Light Mode](https://drive.google.com/uc?id=1I7PshaXrv8sZh-dODuhxAKEiysepMu1p)
+![Home Page Light Mode](https://drive.google.com/uc?id=iEWcWqM22kB0f8G7C9A7rr9YFwdrDIe)
 
 Home Page Dark Mode
 
-![Home Page Dark Mode](https://drive.google.com/uc?id=1DhlDB_AisfGS1O7CsNKJdu5btoCXdcWk)
+![Home Page Dark Mode](https://drive.google.com/uc?id=1qdLsYz40Fgk13s4nYadOWfWqCmCGKtwm)
 
 Country Details Page Light Mode
 
-![Country Details Page Light Mode](https://drive.google.com/uc?id=1EEd1vME0L918XineBVZ5jZAgC_MJX1wi)
+![Country Details Page Light Mode](https://drive.google.com/uc?id=1MYeAVmctcZL8oUPv2_a2FJYcmCzO_YuY)
 
 Country Details Page Dark Mode
 
-![Country Details Page Dark Mode](https://drive.google.com/uc?id=18F26Z1jZp64PkrbK_cP3PAe0WrqM98ug)
+![Country Details Page Dark Mode](https://drive.google.com/uc?id=17q1xDYWA18PfuiLyBOx_eLNyClHX1Z_6)
 
 Region Filtering Menu Light Mode
 
-![Region Filtering Menu Light Mode](https://drive.google.com/uc?id=14wlDnDquQqFCTNqI2WRUljw-xJJiaHi-)
+![Region Filtering Menu Light Mode](https://drive.google.com/uc?id=1yr_n6tzbfEWiIuRcYqO5M5HbcMCfIJ0I)
 
 Region Filtering Menu Dark Mode
 
-![Region Filtering Menu Dark Mode](https://drive.google.com/uc?id=1oATZ96h6ZbSdvIYiUAsXo6Rbg4T9D9ob)
+![Region Filtering Menu Dark Mode](https://drive.google.com/uc?id=1X2mKFCoTcqGy1NKTLz4pSKh71O3a-pCe)
 
 Country Search Bar Light Mode
 
-![Country Search Bar Light Mode](https://drive.google.com/uc?id=1R7c8HD5zAHiVx4C2mxy1k5dy28BAOHj_)
+![Country Search Bar Light Mode](https://drive.google.com/uc?id=1AoxM1eUnJ83DDxX0a278yp6r6oF7g6yP)
 
 Country Search Bar Dark Mode
 
-![Country Search Bar Light Mode](https://drive.google.com/uc?id=1fItpCiPIGQDzfwwhwpi6ULl2uttiizai)
+![Country Search Bar Light Mode](https://drive.google.com/uc?id=1HvPqZcKeOz9wfHH6nSiKngVZRa0YrI3O)
 
 
 Built with:
