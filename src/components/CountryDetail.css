@@ -34,6 +34,10 @@
     height: 100vh;
 }
 
+.singleCountryDetails {
+    width: 100%;
+}
+
 /* .countryDetailCard, .countryDetailContainer {
     height: 100%;
 } */
@@ -43,15 +47,19 @@
     height: 18rem;
 }
 
-.detailsHeading, .details, .borderCountriesContainer {
+.detailsHeading,
+.details,
+.borderCountriesContainer {
     font-size: 0.8rem;
 }
 
-.detailsHeading, .borderCountriesContainer {
+.detailsHeading,
+.borderCountriesContainer {
     color: rgb(67, 65, 65);
 }
 
-.details, .borders {
+.details,
+.borders {
     color: gray;
     margin-left: 0.3rem;
     font-weight: 600;
@@ -81,18 +89,19 @@
 .borderCountryLink {
     text-decoration: none;
     color: gray;
+    padding: 0.2rem 0.5rem;
 }
 
-.borderCountrySeparator{
-    padding: 0.5rem;
+.borderCountrySeparator {
+    padding: 0 0.2rem;
 }
 
-.borderCountries{
+.borderCountries {
     padding: 0.2rem 0.5rem 0.2rem 0.5rem;
 }
 
 
-.borderCountriesContainer{
+.borderCountriesContainer {
     margin-top: 1rem;
     white-space: nowrap;
     overflow: hidden;
