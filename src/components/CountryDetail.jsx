@@ -72,19 +72,6 @@ export default function CountryDetail() {
                       <h6 className="detailsHeading" style={countryDetailStyle}>Capital:
                         <span className="details" style={countryDetailStyle}>{country[0].capital}</span>
                       </h6>
-
-                      <h6 className="borderCountriesContainer" style={countryDetailStyle}>Border Countries:
-                        {country[0].borders && country[0].borders.length > 0 ? (
-                          country[0].borders.map((border, index) => (
-                            <Link key={index} to={`/CountryDetail/country/${border}`} className="borderCountryLink" style={countryDetailStyle}>
-                              {index !== 0 && <span className="borderCountrySeparator" style={countryDetailStyle}></span>}
-                              <span className="borderCountries" style={countryDetailStyle}>{border}&nbsp;</span>
-                            </Link>
-                          ))
-                        ) : (
-                          <span className="borders" style={countryDetailStyle}>None</span>
-                        )}
-                      </h6>
                     </div>
 
                     <div className="rightSideContainer" style={countryDetailStyle}>
@@ -113,6 +100,19 @@ export default function CountryDetail() {
                         )}
                       </h6>
                     </div>
+
+                    <h6 className="borderCountriesContainer" style={countryDetailStyle}>Border Countries:
+                        {country[0].borders && country[0].borders.length > 0 ? (
+                          country[0].borders.map((border, index) => (
+                            <Link key={index} to={`/CountryDetail/country/${border}`} className="borderCountryLink" style={countryDetailStyle}>
+                              {index !== 0 && <span className="borderCountrySeparator" style={countryDetailStyle}></span>}
+                              <span className="borderCountries" style={countryDetailStyle}>{border}&nbsp;</span>
+                            </Link>
+                          ))
+                        ) : (
+                          <span className="borders" style={countryDetailStyle}>None</span>
+                        )}
+                      </h6>
                   </div>
                 </div>
               </div>
