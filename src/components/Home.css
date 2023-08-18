@@ -76,8 +76,8 @@ input[type="text"] {
     width: 15rem;
     border-radius: 0rem 0rem 0.5rem 0.5rem;
     overflow: hidden;
-    /* margin: 0 0.5rem;
-    box-sizing: border-box; */
+    margin: 0 0.5rem;
+    box-sizing: border-box;
 }
 
 .countryFlag {
