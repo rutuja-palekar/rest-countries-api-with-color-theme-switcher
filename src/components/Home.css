@@ -3,6 +3,7 @@
 }
 
 .searchContainer {
+    height: 4rem;
     width: 35rem;
     padding: 0.5rem;
     display: flex;
@@ -52,8 +53,8 @@ input[type="text"] {
 .selectRegions select {
     appearance: none;
     -webkit-appearance: none;
-    background-image: none; 
-    transform: translateZ(0);
+    background-image: none;
+    height: 4rem;
 }
 
 .searchInput,
