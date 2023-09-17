@@ -40,12 +40,20 @@ input[type="text"] {
     box-shadow: 0.1rem 0.1rem 0.5rem 0.2rem rgb(235, 233, 233);
     padding: 1.2rem 4rem 1.2rem 2rem;
     appearance: none;
+    -webkit-appearance: none;
     background-image: url(/public/dropdownArrow.png);
     background-size: 1rem;
     background-repeat: no-repeat;
     background-position: calc(100% - 1rem) center;
     margin: 0;
     background-blend-mode: multiply;
+}
+
+.selectRegions select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: none; 
+    transform: translateZ(0);
 }
 
 .searchInput,
