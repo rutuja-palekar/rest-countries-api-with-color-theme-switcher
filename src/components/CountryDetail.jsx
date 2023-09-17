@@ -32,10 +32,6 @@ export default function CountryDetail() {
     backButton: themeStyles[theme].backButton,
   }
 
-  // const containerStyle = {
-  //   backgroundColor: themeStyles[theme].container,
-  // }
-
   return (
     <div className='container' style={countryDetailStyle}>
       <Navbar />
@@ -100,8 +96,8 @@ export default function CountryDetail() {
                         )}
                       </h6>
                     </div>
-
-                    <h6 className="borderCountriesContainer" style={countryDetailStyle}>Border Countries:
+                  </div>
+                  <h6 className="borderCountriesContainer" style={countryDetailStyle}>Border Countries:
                         {country[0].borders && country[0].borders.length > 0 ? (
                           country[0].borders.map((border, index) => (
                             <Link key={index} to={`/CountryDetail/country/${border}`} className="borderCountryLink" style={countryDetailStyle}>
@@ -113,7 +109,6 @@ export default function CountryDetail() {
                           <span className="borders" style={countryDetailStyle}>None</span>
                         )}
                       </h6>
-                  </div>
                 </div>
               </div>
             </>
