@@ -90,6 +90,7 @@
     text-decoration: none;
     color: gray;
     padding: 0.2rem 0.5rem;
+    white-space: nowrap;
 }
 
 .borderCountrySeparator {
@@ -98,6 +99,7 @@
 
 .borderCountries {
     padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+    white-space: nowrap;
 }
 
 
@@ -106,7 +108,3 @@
     white-space: nowrap;
     overflow: hidden;
 }
-
-/* .container {
-    background-color: #202D36;
-} */
