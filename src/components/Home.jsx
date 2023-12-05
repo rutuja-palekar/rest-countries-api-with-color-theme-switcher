@@ -56,6 +56,7 @@ export default function Home() {
                   country.name.common.toLowerCase().includes(searchCountry.toLowerCase())
                )
                .filter(country => selectedRegion === "" || country.region.includes(selectedRegion))
+               .filter(country => country.region !== "Antarctic") // Excluded Antarctica from countries list
                .map(country => (
                   <Link key={country.cca3} to={`/CountryDetail/country/${country.cca3}`} style={homeStyle}>
                      <div className="countryCard" style={{ ...homeStyle, boxShadow: homeStyle.countryCard }}>
